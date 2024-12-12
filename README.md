@@ -1,2 +1,2 @@
 # learn_pyThorch
-pyThorch
+pyThorch学习项目，目标是将pythroch官方教程复现一边
